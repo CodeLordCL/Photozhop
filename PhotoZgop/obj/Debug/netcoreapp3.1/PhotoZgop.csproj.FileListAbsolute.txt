@@ -1,0 +1,15 @@
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\bin\Debug\netcoreapp3.1\PhotoZgop.exe
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\bin\Debug\netcoreapp3.1\PhotoZgop.deps.json
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\bin\Debug\netcoreapp3.1\PhotoZgop.runtimeconfig.json
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\bin\Debug\netcoreapp3.1\PhotoZgop.runtimeconfig.dev.json
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\bin\Debug\netcoreapp3.1\PhotoZgop.dll
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\bin\Debug\netcoreapp3.1\PhotoZgop.pdb
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.Form1.resources
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.dll
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.pdb
+C:\Users\Sergey\source\repos\PhotoZgop\PhotoZgop\obj\Debug\netcoreapp3.1\PhotoZgop.genruntimeconfig.cache
